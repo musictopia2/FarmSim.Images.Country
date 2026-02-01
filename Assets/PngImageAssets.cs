@@ -30,7 +30,6 @@ public static class PngImageAssets
     public const string Egg = "Egg";
     public const string Emma = "Emma";
     public const string FarmersSoup = "FarmersSoup";
-    public const string Fish = "Fish";
     public const string Flour = "Flour";
     public const string FruitPress = "FruitPress";
     public const string Glassworks = "Glassworks";
@@ -99,7 +98,6 @@ public static class PngImageAssets
         CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("Egg", "/_content/FarmSim.Images.Country/Egg.png");
         CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("Emma", "/_content/FarmSim.Images.Country/Emma.png");
         CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("FarmersSoup", "/_content/FarmSim.Images.Country/FarmersSoup.png");
-        CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("Fish", "/_content/FarmSim.Images.Country/Fish.png");
         CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("Flour", "/_content/FarmSim.Images.Country/Flour.png");
         CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("FruitPress", "/_content/FarmSim.Images.Country/FruitPress.png");
         CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("Glassworks", "/_content/FarmSim.Images.Country/Glassworks.png");
