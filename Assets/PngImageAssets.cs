@@ -9,10 +9,12 @@ public static class PngImageAssets
     public const string Baxter = "Baxter";
     public const string Biscuit = "Biscuit";
     public const string Blackberry = "Blackberry";
+    public const string BlackberryTart = "BlackberryTart";
     public const string Blanket = "Blanket";
     public const string Bob = "Bob";
     public const string Butter = "Butter";
     public const string Carrot = "Carrot";
+    public const string CarrotCake = "CarrotCake";
     public const string Chicken = "Chicken";
     public const string Chive = "Chive";
     public const string Clara = "Clara";
@@ -48,6 +50,7 @@ public static class PngImageAssets
     public const string Mittens = "Mittens";
     public const string PastryOven = "PastryOven";
     public const string Peach = "Peach";
+    public const string PeachYogurt = "PeachYogurt";
     public const string Pig = "Pig";
     public const string Pond = "Pond";
     public const string Quartz = "Quartz";
@@ -58,6 +61,7 @@ public static class PngImageAssets
     public const string SparklingBeverageWorks = "SparklingBeverageWorks";
     public const string StovetopOven = "StovetopOven";
     public const string Strawberry = "Strawberry";
+    public const string StrawberryShortCake = "StrawberryShortCake";
     public const string Sugar = "Sugar";
     public const string Tin = "Tin";
     public const string Tomato = "Tomato";
@@ -77,10 +81,12 @@ public static class PngImageAssets
         CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("Baxter", "/_content/FarmSim.Images.Country/Baxter.png");
         CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("Biscuit", "/_content/FarmSim.Images.Country/Biscuit.png");
         CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("Blackberry", "/_content/FarmSim.Images.Country/Blackberry.png");
+        CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("BlackberryTart", "/_content/FarmSim.Images.Country/BlackberryTart.png");
         CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("Blanket", "/_content/FarmSim.Images.Country/Blanket.png");
         CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("Bob", "/_content/FarmSim.Images.Country/Bob.png");
         CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("Butter", "/_content/FarmSim.Images.Country/Butter.png");
         CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("Carrot", "/_content/FarmSim.Images.Country/Carrot.png");
+        CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("CarrotCake", "/_content/FarmSim.Images.Country/CarrotCake.png");
         CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("Chicken", "/_content/FarmSim.Images.Country/Chicken.png");
         CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("Chive", "/_content/FarmSim.Images.Country/Chive.png");
         CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("Clara", "/_content/FarmSim.Images.Country/Clara.png");
@@ -116,6 +122,7 @@ public static class PngImageAssets
         CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("Mittens", "/_content/FarmSim.Images.Country/Mittens.png");
         CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("PastryOven", "/_content/FarmSim.Images.Country/PastryOven.png");
         CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("Peach", "/_content/FarmSim.Images.Country/Peach.png");
+        CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("PeachYogurt", "/_content/FarmSim.Images.Country/PeachYogurt.png");
         CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("Pig", "/_content/FarmSim.Images.Country/Pig.png");
         CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("Pond", "/_content/FarmSim.Images.Country/Pond.png");
         CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("Quartz", "/_content/FarmSim.Images.Country/Quartz.png");
@@ -126,6 +133,7 @@ public static class PngImageAssets
         CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("SparklingBeverageWorks", "/_content/FarmSim.Images.Country/SparklingBeverageWorks.png");
         CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("StovetopOven", "/_content/FarmSim.Images.Country/StovetopOven.png");
         CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("Strawberry", "/_content/FarmSim.Images.Country/Strawberry.png");
+        CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("StrawberryShortCake", "/_content/FarmSim.Images.Country/StrawberryShortCake.png");
         CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("Sugar", "/_content/FarmSim.Images.Country/Sugar.png");
         CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("Tin", "/_content/FarmSim.Images.Country/Tin.png");
         CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileContentRegistry.RegisterFile("Tomato", "/_content/FarmSim.Images.Country/Tomato.png");
